@@ -1,0 +1,43 @@
+.principal {
+    background-image: url(./optional_banner_3.jpg); 
+    background-size: cover;
+}
+
+.transparent-banner {
+    background-color:rgba(255, 255, 255, 0.80);
+}
+
+.form-body {
+    background-image: url(./optional_banner_5.jpg);
+    color: white;
+    margin-bottom: 1vh;
+    margin-top: 4vh;
+}
+
+.banner-titulo {
+    margin-top: 1vh;
+    background-image: url(./optional_banner_5.jpg);
+    background-size:cover; 
+    color: white;
+}
+
+.statstable tr, .statstable td {
+    border: 1px solid black;
+}
+
+.statstable {
+    padding: 3vw;
+}
+
+.statstable th {
+    
+    background-image: url(./optional_banner_5.jpg); 
+    background-size:cover; 
+    color: white;
+    padding: 1vw;
+}
+
+.statstable td {
+    text-align: center;
+    padding: 1vw;
+}
